@@ -14,3 +14,8 @@ Regroupe tout le code dont j'ai besoin en un seul projet
 
     echo Operation reussie
     pause
+# Etapes
+
+Etapes 1 - Faire la doc user possible
+Etapes 2 - Modifier le code
+
